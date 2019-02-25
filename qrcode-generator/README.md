@@ -51,5 +51,15 @@ https://<functionapp-url>/api/<function-name>
     "data":"{QRCode Data}"
 }
 ```
+---
+#### output
 
+|              |            |
+| ------------- |:-------------: |
+| Type     | Image 
+| Format      | PNG   |   
 
+---
+#### Note
+
+> Please visit [https://www.npmjs.com/package/qr-image](https://www.npmjs.com/package/qr-image) for more details on how to change image format, size, etc. . 
