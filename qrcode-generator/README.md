@@ -36,7 +36,7 @@ This function generates QR code based on user input.
 }
 ```
 ---
-#### Usage:
+#### Usage
 ```http
 https://<functionapp-url>/api/<function-name>
 ```
