@@ -16,7 +16,7 @@ This function generates QR code based on user input.
 #### Prerequisites
 
 *   Create a file in the root directory of you function app called **package.json**
-*   add **qr-image** as dependencies
+*   add **qr-image** in dependencies
 
 >package.json
 ``` json
