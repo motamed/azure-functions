@@ -52,7 +52,7 @@ https://<functionapp-url>/api/<function-name>
 }
 ```
 ---
-#### output
+#### Output
 
 |              |            |
 | ------------- |:-------------: |
